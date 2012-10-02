@@ -1,4 +1,5 @@
-cloudcmd-app
+Cloud Commander Application
 ============
 
-use cloud commander not only in browser but in appjs and node-webkit to
+Use [Cloud Commander]("https://github.com/coderaiser/cloudcmd", "Cloud Commander") not only in browser but in [appjs]("https://github.com/appjs/appjs", "appjs")
+and [node-webkit]("https://github.com/rogerwang/node-webkit" "node-webkit") to.
