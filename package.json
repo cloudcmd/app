@@ -10,7 +10,6 @@
   },
   "subdomain": "cloudcmd",
   "dependencies": {
-    "node-webkit": "0.2.6",
     "appjs": "0.0.19",
     "cloudcmd": "0.1.8"
   }
