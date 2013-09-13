@@ -1,16 +1,23 @@
 {
-  "name": "cloudcmd-app",
-  "version": "0.1.0",
-  "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
-  "description": "use cloud commander not only in browser but in appjs and node-webkit to",
-  "homepage": "https://github.com/coderaiser/cloudcmd-app",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/coderaiser/cloudcmd-app.git"
-  },
-  "subdomain": "cloudcmd",
-  "dependencies": {
-    "appjs": "0.0.19",
-    "cloudcmd": "0.1.8"
-  }
+    "name": "Cloud Commander Application",
+    "version": "0.2.0",
+    "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
+    "description": "node-webkit version of Cloud Commander",
+    "homepage": "https://github.com/coderaiser/cloudcmd-app",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/coderaiser/cloudcmd-app.git"
+    },
+    "subdomain": "cloudcmd",
+    "dependencies": {
+        "cloudcmd": "0.3.0"
+    },
+    "main": "http://localhost:8000",
+    "window": {
+        "title": "Cloud Commander",
+        "icon": "favicon.png",
+        "width": 1200,
+        "height": 820,
+        "toolbar": false
+    }
 }
