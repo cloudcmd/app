@@ -24,7 +24,7 @@ Screenshots
 
 Download
 ============
-[v0.2.0 (win)](https://github.com/coderaiser/cloudcmd-app/releases/download/v0.2.0/cloudcmd-app-v0.2.0.zip)
+[v0.2.0 (win)](https://dl.dropboxusercontent.com/u/43525014/cloudcmd/cloudcmd-app/cloudcmd-app-v0-2-0.zip)
 
 Build
 ============
