@@ -1,7 +1,0 @@
-{
-  "name": "cloudcmd",
-  "main": "index.html",
-  "window": {
-    "toolbar": false
-  }
-}
