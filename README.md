@@ -1,6 +1,6 @@
 Cloud Commander Application
 ============
-Node-webkit version of [Cloud Commander](http://coderaiser.github.io/cloudcmd "Cloud Commander").
+Node-webkit version of [Cloud Commander](http://cloudcmd.io "Cloud Commander").
 
 Screenshots
 ============
