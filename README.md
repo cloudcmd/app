@@ -28,7 +28,7 @@ Download
 
 Build
 ============
-1. Get [Cloud Commander](http://coderaiser.github.io/cloudcmd "Cloud Commander") and [node-webkit](http://github.com/rogerwang/node-webkit "node-webkit").
+1. Get [Cloud Commander](http://cloudcmd.io "Cloud Commander") and [node-webkit](http://github.com/rogerwang/node-webkit "node-webkit").
 2. Unpack them to root app dir.
 3. Zip to cloudcmd-app.zip files: [package.json](http://github.com/coderaiser/cloudcmd-app/blob/master/package.json), [favicon.png](http://github.com/coderaiser/cloudcmd-app/blob/master/favicon.png)
 4. Rename cloudcmd-app.zip to cloudcmd-app.nw
