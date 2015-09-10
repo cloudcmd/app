@@ -1,5 +1,5 @@
 {
-    "name": "Cloud Commander Application",
+    "name": "cloudcmd-app",
     "version": "0.3.0",
     "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
     "description": "node-webkit version of Cloud Commander",
